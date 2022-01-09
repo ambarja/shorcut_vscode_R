@@ -1,7 +1,7 @@
 [
   {
       "key": "Ctrl+Shift+m",
-      "command": "pipe",
+      "command": "type",
       "args": { "text": " %>% " },
       "when": "editorTextFocus"
   },
