@@ -1,2 +1,3 @@
-# shorcut_vscode_R
-Utils for VSCode
+# Utils for vscode with R <3 
+<center><img src="pipe.png"></center>
+
