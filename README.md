@@ -1,4 +1,6 @@
-# Utils for vscode with R <3 
+# Utils for vscode with R 💛 
+
+
 ## 1.Install plugins for R
 <center><img src="p0.png"></center>
 
