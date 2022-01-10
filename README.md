@@ -7,5 +7,5 @@
 ## 2.Create a shortcut for pipe (%>%)
 <center><img src="p1.png"></center>
 
-## 3.Use R in visualcode <3 + rgee
+## 3.Use R in visualcode 💙 + rgee
 <center><img src="p2.png"></center>
